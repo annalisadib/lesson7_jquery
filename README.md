@@ -12,8 +12,7 @@ Annalisa DiBernardo
 Learned how to use jQuery to animate and edit the h3 elements in the recipe provided. 
 
 ### View Project Online:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://annalisadib.github.io/lesson7_jquery/
 
 ### Lessons Learned in the Assignment:
 1. Learned that jQuery is a subset of JavaScript that was created to make it easier to add exciting and unique elements to a webpage. jQuery eliminates a lot of the confusing and long codes that would normally have to be typed out in order to achieve the desired layout or animation. jQuery can also be utilized to manipulate HTML, CSS, and AJAX.
